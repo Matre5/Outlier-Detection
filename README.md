@@ -1,4 +1,4 @@
-# 🗳️ Outlier Detection using Election Result
+# 🗳️ Outlier Detection using Geopy on Election Result
 
 ## 📌 Project Overview
 This project focuses on analyzing election results using data science techniques to detect outliers. 
