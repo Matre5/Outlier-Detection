@@ -8,13 +8,11 @@ The analysis includes voter turnout, party performance, regional trends, and out
 ## 🛠️ Technologies Used
 - **Python** (for data manipulation and analysis)
 - **Pandas** (for handling and processing data)
-- **Matplotlib & Seaborn** (for data visualization)
-- **Geopandas & Folium** (for geospatial analysis)
+- **Geopy** (for geospatial analysis)
 - **Jupyter Notebook** (for interactive coding)
 
 ## 📊 Key Features
 - **Data Cleaning & Preprocessing**: Handles missing values and formats the dataset.
-- **Exploratory Data Analysis (EDA)**: Visualizes trends and insights.
 - **Geospatial Analysis**: Maps election results across different regions.
 - **Outlier Detection**: Identifies anomalies in voting patterns.
 
