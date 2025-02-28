@@ -21,7 +21,7 @@ The analysis includes voter turnout, party performance, regional trends, and out
 ## 📂 Project Structure
 ```
 Election_result_analysis/
-│── data/                 # Contains raw and processed datasets
+│── Stage one/                 # Contains raw and processed datasets
 │── Election_result_analysis.ipynb  # Main Jupyter Notebook
 │── requirements.txt      # List of dependencies
 │── README.md             # Project documentation
